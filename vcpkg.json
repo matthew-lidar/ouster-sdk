@@ -2,14 +2,14 @@
   "$schema": "https://raw.githubusercontent.com/microsoft/vcpkg-tool/main/docs/vcpkg.schema.json",
   "dependencies": [
     "jsoncpp",
-    "eigen3"
-    "curl"
-    "libtins"
-    "glfw3"
-    "glew"
-    "spdlog"
-    "libpng"
-    "flatbuffers"
+    "eigen3",
+    "curl",
+    "libtins",
+    "glfw3",
+    "glew",
+    "spdlog",
+    "libpng",
+    "flatbuffers",
     "gtest"
   ]
 }
